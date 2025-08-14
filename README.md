@@ -29,4 +29,5 @@
 ### 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusDalagnol&layout=compact&langs_count=7&theme=dracula)  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MateusDalagnol&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MateusDalagnol&show_icons=true&theme=dracula)
+)
