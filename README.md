@@ -22,13 +22,11 @@
 ---
 
 ## 📬 Contacts
-<div>
-<a href="mailto:dalagnol@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/mateus-dalagnol-3a2147330/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   
-</div>
+[📧 Gmail](mailto:dalagnol@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/mateus-dalagnol-3a2147330/)
 
-<div>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusDalagnol&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusDalagnol&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+---
 
+### 📊 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusDalagnol&layout=compact&langs_count=7&theme=dracula)  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MateusDalagnol&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
