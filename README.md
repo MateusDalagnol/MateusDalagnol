@@ -24,10 +24,5 @@
 
 ---
 
-### 📊 GitHub Stats
-<table>
-  <tr>
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=MateusDalagnol&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Mateus GitHub Stats" /></td>
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusDalagnol&layout=compact&langs_count=7&theme=dracula" alt="Top Languages" /></td>
-  </tr>
-</table>
+### 📊 GitHub Stats 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusDalagnol&layout=compact&langs_count=7&theme=dracula)
