@@ -1,6 +1,4 @@
-# 👋 Hello! Welcome to my Github profile.
-
-## 👋 Hi! I'm Mateus
+# 👋 Hi! I'm Mateus
 
 🎓 Computer Science student (4th semester) at [Universidade Positivo](https://www.up.edu.br/).  
 💻 Interested in **software development**.  
